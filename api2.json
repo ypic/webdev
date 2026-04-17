@@ -1,0 +1,249 @@
+{
+  "id": 96454,
+  "date": "2026-02-19",
+  "meetingNumber": 3,
+  "name": "STRAUBING",
+  "guid": "20260219_D73",
+  "racesCount": 6,
+  "isPremium": true,
+  "isCsi": false,
+  "isCsiPmu": false,
+  "isPmh": false,
+  "uuid": "54de8145-1204-4323-a763-e703f677014e",
+  "racecourse": {
+    "name": "STRAUBING (Allemagne)",
+    "countryCode": "DEU",
+    "uuid": "abd23571-95c7-4f20-b17c-1e57fadbab6c",
+    "shortName": "STRAUBING",
+    "thumbnailUrl": "https://media.pp.equidia.fr/unsafe/1280x720/default/racecourse_default.jpeg",
+    "thumbnailData": {
+      "url": "https://media.pp.equidia.fr/unsafe/1280x720/default/racecourse_default.jpeg",
+      "prefixBlur": "https://media.pp.equidia.fr/unsafe/1920x1080/filters:colorize(70,70,70,000000):blur(20):format(webp)/",
+      "prefixOpacity": "https://media.pp.equidia.fr/unsafe/1920x1080/filters:colorize(70,70,70,000000):format(webp)/",
+      "prefixSmall": "https://media.pp.equidia.fr/unsafe/315x177/filters:format(webp)/",
+      "prefixDefault": "https://media.pp.equidia.fr/unsafe/1920x1080/filters:format(webp)/"
+    }
+  },
+  "races": [
+    {
+      "raceNumber": 1,
+      "name": "AUFTAKTRENNEN Z. ALLEMAGNE",
+      "startDate": "2026-02-19T11:02:00+01:00",
+      "isQuinte": false,
+      "shortName": "AUFTAKTRENNEN",
+      "highlight": null,
+      "guid": "20260219_D73_1",
+      "replayThumbnail": null,
+      "isQuarte": false,
+      "uuid": "4b9797e9-b540-4406-9cf2-6acc03c87edd",
+      "familyDiscipline": "HARNESS",
+      "tvInfoSummary": [
+        "9 Partants",
+        "Attelé",
+        "Internationale-autostart",
+        "1925m",
+        "4 000 €"
+      ],
+      "status": "FINISHED",
+      "isPickFive": false,
+      "isFirstGroup": false,
+      "replayUrl": null,
+      "booster": null,
+      "nonRunners": [
+        1,
+        2,
+        3
+      ],
+      "replayThumbnailData": null,
+      "strongBets": [
+        "https://static.equidia.fr/assets/design-system/pari-v2/28-Super4_Fond Blanc.svg"
+      ]
+    },
+    {
+      "raceNumber": 2,
+      "name": "PRIX NIEDERBAYERNTV ALLEMAGNE",
+      "startDate": "2026-02-19T11:31:00+01:00",
+      "isQuinte": false,
+      "shortName": "NIEDERBAYERNTV",
+      "highlight": null,
+      "guid": "20260219_D73_2",
+      "replayThumbnail": null,
+      "isQuarte": false,
+      "uuid": "12d3fe44-5417-4f6f-8952-c25b1e77fb84",
+      "familyDiscipline": "HARNESS",
+      "tvInfoSummary": [
+        "10 Partants",
+        "Attelé",
+        "Internationale-autostart",
+        "2400m",
+        "4 000 €"
+      ],
+      "status": "FINISHED",
+      "isPickFive": false,
+      "isFirstGroup": false,
+      "replayUrl": null,
+      "booster": null,
+      "nonRunners": [
+        1,
+        8
+      ],
+      "replayThumbnailData": null,
+      "strongBets": [
+        "https://static.equidia.fr/assets/design-system/pari-v2/25-2sur4_Fond Blanc.svg"
+      ]
+    },
+    {
+      "raceNumber": 3,
+      "name": "DREIERWETTE-JACKPOTRENNEN ALLEMAGNE",
+      "startDate": "2026-02-19T11:59:00+01:00",
+      "isQuinte": false,
+      "shortName": "DREIERWETTE",
+      "highlight": null,
+      "guid": "20260219_D73_3",
+      "replayThumbnail": null,
+      "isQuarte": false,
+      "uuid": "1aab828d-c940-4c0d-843d-8e0f6d9f151c",
+      "familyDiscipline": "HARNESS",
+      "tvInfoSummary": [
+        "10 Partants",
+        "Attelé",
+        "Internationale-autostart",
+        "1925m",
+        "4 000 €"
+      ],
+      "status": "FINISHED",
+      "isPickFive": false,
+      "isFirstGroup": false,
+      "replayUrl": null,
+      "booster": null,
+      "nonRunners": [
+        2,
+        9
+      ],
+      "replayThumbnailData": null,
+      "strongBets": [
+        "https://static.equidia.fr/assets/design-system/pari-v2/25-2sur4_Fond Blanc.svg"
+      ]
+    },
+    {
+      "raceNumber": 4,
+      "name": "AUFTAKTRENNEN ZUR V3-FINISHWETTE ALLEMAGNE",
+      "startDate": "2026-02-19T12:34:00+01:00",
+      "isQuinte": false,
+      "shortName": "AUFTAKTREN. V3",
+      "highlight": null,
+      "guid": "20260219_D73_4",
+      "replayThumbnail": null,
+      "isQuarte": false,
+      "uuid": "f7fe56ae-3ab8-4ef1-8906-f60bb04b0fdc",
+      "familyDiscipline": "HARNESS",
+      "tvInfoSummary": [
+        "10 Partants",
+        "Attelé",
+        "Internationale-autostart",
+        "2400m",
+        "4 000 €"
+      ],
+      "status": "FINISHED",
+      "isPickFive": false,
+      "isFirstGroup": false,
+      "replayUrl": null,
+      "booster": null,
+      "nonRunners": [
+        9
+      ],
+      "replayThumbnailData": null,
+      "strongBets": [
+        "https://static.equidia.fr/assets/design-system/pari-v2/25-2sur4_Fond Blanc.svg"
+      ]
+    },
+    {
+      "raceNumber": 5,
+      "name": "VIERERWETTE-JACKPOTRENNEN ALLEMAGNE",
+      "startDate": "2026-02-19T13:09:00+01:00",
+      "isQuinte": false,
+      "shortName": "VIERERWETTE",
+      "highlight": null,
+      "guid": "20260219_D73_5",
+      "replayThumbnail": null,
+      "isQuarte": false,
+      "uuid": "a1e5e9a2-8cd6-433a-9b59-dcd0ddc8fc70",
+      "familyDiscipline": "HARNESS",
+      "tvInfoSummary": [
+        "10 Partants",
+        "Attelé",
+        "Internationale-autostart",
+        "1925m",
+        "4 000 €"
+      ],
+      "status": "FINISHED",
+      "isPickFive": false,
+      "isFirstGroup": false,
+      "replayUrl": null,
+      "booster": null,
+      "nonRunners": [],
+      "replayThumbnailData": null,
+      "strongBets": [
+        "https://static.equidia.fr/assets/design-system/pari-v2/25-2sur4_Fond Blanc.svg"
+      ]
+    },
+    {
+      "raceNumber": 6,
+      "name": "ZWEIERWETTE-JACKPOTRENNEN ALLEMAGNE",
+      "startDate": "2026-02-19T13:30:00+01:00",
+      "isQuinte": false,
+      "shortName": "ZWEIERWETTE-JACKPOTRENNEN ALLEMAGNE",
+      "highlight": null,
+      "guid": "20260219_D73_6",
+      "replayThumbnail": null,
+      "isQuarte": false,
+      "uuid": "37ce239a-91b3-46ec-bd5c-8b92be2f6737",
+      "familyDiscipline": "HARNESS",
+      "tvInfoSummary": [
+        "7 Partants",
+        "Attelé",
+        "Internationale-autostart",
+        "1925m",
+        "1 000 €"
+      ],
+      "status": "FINISHED",
+      "isPickFive": false,
+      "isFirstGroup": false,
+      "replayUrl": null,
+      "booster": null,
+      "nonRunners": [
+        1
+      ],
+      "replayThumbnailData": null,
+      "strongBets": []
+    }
+  ],
+  "startDate": "2026-02-19T10:27:00+01:00",
+  "endDate": "2026-02-19T16:30:00+01:00",
+  "isRacing": true,
+  "disciplines": [
+    "HARNESS"
+  ],
+  "familyDisciplines": [
+    "HARNESS"
+  ],
+  "isQuinte": false,
+  "streams": [
+    {
+      "urlStream": null,
+      "streamType": null,
+      "streamActive": false
+    }
+  ],
+  "status": "FINISHED",
+  "cloudCoverCode": "P6",
+  "cloudCoverName": "Couvert",
+  "cloudTemperature": "2",
+  "cloudWindForce": "7",
+  "cloudWindDirection": "N",
+  "groundConditions": [],
+  "hasFavorite": [],
+  "strongBets": [
+    "https://static.equidia.fr/assets/design-system/pari-v2/25-2sur4_Fond Blanc.svg"
+  ]
+}

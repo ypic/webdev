@@ -1,0 +1,441 @@
+{
+  "medias": {
+    "replays": [],
+    "ticketGagnants": [],
+    "troisMinPronos": [],
+    "heats": [],
+    "itwAps": [],
+    "itwAvs": [],
+    "enqs": [],
+    "refs": [],
+    "reps": [],
+    "sameRunners": [],
+    "lastEditions": [],
+    "bestAssociations": [],
+    "sameConditions": []
+  },
+  "id": 330372,
+  "raceNumber": 1,
+  "name": "AUFTAKTRENNEN Z. ALLEMAGNE",
+  "startDate": "2026-02-19T11:02:00+01:00",
+  "runnerCount": 9,
+  "distance": 1925,
+  "discipline": "Attelé",
+  "category": "INTERNATIONALE-AUTOSTART",
+  "trackType": null,
+  "meeting": {
+    "meetingNumber": 3,
+    "name": "STRAUBING",
+    "uuid": "54de8145-1204-4323-a763-e703f677014e",
+    "startDate": "2026-02-19T10:27:00+01:00",
+    "streams": [
+      {
+        "urlStream": null,
+        "streamType": null,
+        "streamActive": false
+      }
+    ],
+    "cloudCoverCode": "P6",
+    "cloudCoverName": "Couvert",
+    "cloudTemperature": "2",
+    "cloudWindForce": "7",
+    "cloudWindDirection": "N"
+  },
+  "isQuinte": false,
+  "shortName": "AUFTAKTRENNEN",
+  "isTracked": false,
+  "startingMode": "Autostart",
+  "type": "Course Internationale",
+  "courseName": null,
+  "raceRessource": {
+    "hasRunner": true,
+    "hasTrainerOpinion": false,
+    "hasNote": false,
+    "hasReplay": false,
+    "hasPrediction": false,
+    "hasFinishAnalysis": false,
+    "hasInterview": false,
+    "hasBetCombination": false,
+    "hasTracking": false,
+    "uuid": "3e955d82-5271-4589-a4e4-127998117976"
+  },
+  "highlight": null,
+  "raceBets": [
+    {
+      "type": {
+        "code": "1",
+        "name": "Simple gagnant",
+        "channel": "OFF",
+        "color": null,
+        "betPath": "https://static.equidia.fr/assets/design-system/pari-v2/01-Simple_Fond_Blanc.svg",
+        "oddsType": "TYPE_RAPPORT_GAGNANT_PLACE",
+        "weight": 1
+      },
+      "uuid": "fbaa9d30-ce1c-48da-83ea-64fd9329e08d"
+    },
+    {
+      "type": {
+        "code": "2",
+        "name": "Simple placé",
+        "channel": "OFF",
+        "color": null,
+        "betPath": null,
+        "oddsType": null,
+        "weight": null
+      },
+      "uuid": "97b477a9-f6ed-43b7-8ca0-e37a5d9a96cf"
+    },
+    {
+      "type": {
+        "code": "3",
+        "name": "Couplé gagnant",
+        "channel": "OFF",
+        "color": "#eb6608",
+        "betPath": "https://static.equidia.fr/assets/design-system/pari-v2/07-Couple_Fond Blanc.svg",
+        "oddsType": "TYPE_RAPPORT_GAGNANT_PLACE",
+        "weight": 2
+      },
+      "uuid": "c4e963f0-fc24-437a-a303-2b4cfe29d9d7"
+    },
+    {
+      "type": {
+        "code": "4",
+        "name": "Couplé placé",
+        "channel": "OFF",
+        "color": "#eb6608",
+        "betPath": null,
+        "oddsType": null,
+        "weight": null
+      },
+      "uuid": "0d359e50-62b5-4dae-84ee-edf10873e294"
+    },
+    {
+      "type": {
+        "code": "66",
+        "name": "Super 4",
+        "channel": "OFF",
+        "color": "#00491c",
+        "betPath": "https://static.equidia.fr/assets/design-system/pari-v2/28-Super4_Fond Blanc.svg",
+        "oddsType": "TYPE_RAPPORT_BASIC",
+        "weight": 9
+      },
+      "uuid": "83e9a041-3b30-4dc5-b606-76c039da1fcd"
+    },
+    {
+      "type": {
+        "code": "9",
+        "name": "Trio",
+        "channel": "OFF",
+        "color": "#e1a000",
+        "betPath": "https://static.equidia.fr/assets/design-system/pari-v2/13-Trio_Fond Blanc.svg",
+        "oddsType": "TYPE_RAPPORT_BASIC",
+        "weight": 5
+      },
+      "uuid": "85caf835-b886-4d7f-8768-9cc142e08ea7"
+    }
+  ],
+  "equidiaPrediction": null,
+  "measureValue": null,
+  "measureHour": null,
+  "conditions": "AUFTRAKTRENNEN Z.                                                            Course 01 Course Internationale Départ à l'Autostart 4.000 - Attelé. - 1.925 mètres. 1.580, 810, 510, 350, 250. - 500 aux fonds d'élevage. Pour 3 à 14 ans n'ayant pas gagné 4.800.",
+  "betCombinations": [
+    {
+      "image": "https://static.equidia.fr/assets/design-system/pari-v2/01-Simple_Fond_Blanc.svg",
+      "betName": "Simple gagnant",
+      "titles": [
+        "N°",
+        "Gagnant",
+        "Placé"
+      ],
+      "values": [
+        [
+          "09",
+          "3,60",
+          "1,80"
+        ],
+        [
+          "06",
+          "",
+          "3,50"
+        ],
+        [
+          "08",
+          "",
+          "2,30"
+        ]
+      ]
+    },
+    {
+      "image": "https://static.equidia.fr/assets/design-system/pari-v2/07-Couple_Fond Blanc.svg",
+      "betName": "Couplé gagnant",
+      "titles": [
+        "N°",
+        "Gagnant",
+        "Placé"
+      ],
+      "values": [
+        [
+          "09-06",
+          "33,50",
+          "13,90"
+        ],
+        [
+          "09-NP",
+          "8,80",
+          "1,90"
+        ],
+        [
+          "09-08",
+          "",
+          "4,00"
+        ],
+        [
+          "06-08",
+          "",
+          "13,40"
+        ],
+        [
+          "06-NP",
+          "",
+          "4,80"
+        ],
+        [
+          "08-NP",
+          "",
+          "1,90"
+        ]
+      ]
+    },
+    {
+      "image": "https://static.equidia.fr/assets/design-system/pari-v2/28-Super4_Fond Blanc.svg",
+      "betName": "Super 4",
+      "titles": [
+        "Combinaison",
+        "Gagnant"
+      ],
+      "values": [
+        [
+          "09-06-08-04",
+          "999,90"
+        ],
+        [
+          "09-06-08-NP",
+          "471,90"
+        ],
+        [
+          "09-06-NP-NP",
+          "118,30"
+        ]
+      ]
+    },
+    {
+      "image": "https://static.equidia.fr/assets/design-system/pari-v2/13-Trio_Fond Blanc.svg",
+      "betName": "Trio",
+      "titles": [
+        "Combinaison",
+        "Gagnant"
+      ],
+      "values": [
+        [
+          "09-06-08",
+          "97,10"
+        ],
+        [
+          "09-06-NP",
+          "71,10"
+        ],
+        [
+          "09-NP-NP",
+          "5,90"
+        ]
+      ]
+    }
+  ],
+  "finishAnalysis": null,
+  "guid": "20260219_D73_1",
+  "replayThumbnail": null,
+  "uuid": "4b9797e9-b540-4406-9cf2-6acc03c87edd",
+  "familyDiscipline": "HARNESS",
+  "runners": [
+    {
+      "id": 3757156,
+      "runnerNumber": 1,
+      "horse": {
+        "name": "PAMIRA",
+        "uuid": "89e530be-c48b-4b62-8f8d-bf34c8da5d4c",
+        "isFavorite": false
+      },
+      "idPmu": "41686300",
+      "uuid": "1ca8debd-682f-4707-acf9-5a985d37461d",
+      "silksPath": "https://media.equidia.fr/unsafe/fit-in/1920x0/filters:format(png)/https://api.equidia.fr/api/public/media/original/20260219-r3c1p1-png",
+      "internalRunnerNote": null,
+      "finishAnalysisRunner": null
+    },
+    {
+      "id": 3757157,
+      "runnerNumber": 2,
+      "horse": {
+        "name": "LOTS OF LOVE",
+        "uuid": "32797c4b-0cd5-4025-9da0-bad65842e996",
+        "isFavorite": false
+      },
+      "idPmu": "41686301",
+      "uuid": "66c28fab-b79c-43a4-b0f3-78a7ef213a2e",
+      "silksPath": "https://media.equidia.fr/unsafe/fit-in/1920x0/filters:format(png)/https://api.equidia.fr/api/public/media/original/20260219-r3c1p2-png",
+      "internalRunnerNote": null,
+      "finishAnalysisRunner": null
+    },
+    {
+      "id": 3757158,
+      "runnerNumber": 3,
+      "horse": {
+        "name": "IROSHIMA JET",
+        "uuid": "0f5c4f25-99dd-49e8-9493-27109eeabcf0",
+        "isFavorite": false
+      },
+      "idPmu": "41686302",
+      "uuid": "24002765-819b-4c4a-b057-b86e014815a3",
+      "silksPath": "https://media.equidia.fr/unsafe/fit-in/1920x0/filters:format(png)/https://api.equidia.fr/api/public/media/original/20260219-r3c1p3-png",
+      "internalRunnerNote": null,
+      "finishAnalysisRunner": null
+    },
+    {
+      "id": 3757159,
+      "runnerNumber": 4,
+      "horse": {
+        "name": "EL CHAPO",
+        "uuid": "7a0a739b-34db-4190-a780-6d41057b6744",
+        "isFavorite": false
+      },
+      "idPmu": "41686303",
+      "uuid": "c73cfced-4083-4bd9-99b4-95b160c0eb6d",
+      "silksPath": "https://media.equidia.fr/unsafe/fit-in/1920x0/filters:format(png)/https://api.equidia.fr/api/public/media/original/20260219-r3c1p4-png",
+      "internalRunnerNote": null,
+      "finishAnalysisRunner": null
+    },
+    {
+      "id": 3757160,
+      "runnerNumber": 5,
+      "horse": {
+        "name": "ROMASHKA",
+        "uuid": "6aec548e-28b1-4b77-9e2d-277ed9e09c78",
+        "isFavorite": false
+      },
+      "idPmu": "41686304",
+      "uuid": "e1259103-f401-4b18-b718-1290acd538bd",
+      "silksPath": "https://media.equidia.fr/unsafe/fit-in/1920x0/filters:format(png)/https://api.equidia.fr/api/public/media/original/20260219-r3c1p5-png",
+      "internalRunnerNote": null,
+      "finishAnalysisRunner": null
+    },
+    {
+      "id": 3757161,
+      "runnerNumber": 6,
+      "horse": {
+        "name": "FRANCESCO YANKEE",
+        "uuid": "64e3203b-9e7e-48bc-b8f9-3094bf0a4f02",
+        "isFavorite": false
+      },
+      "idPmu": "41686305",
+      "uuid": "b3e01a07-3026-4437-95ed-050464775849",
+      "silksPath": "https://media.equidia.fr/unsafe/fit-in/1920x0/filters:format(png)/https://api.equidia.fr/api/public/media/original/20260219-r3c1p6-png",
+      "internalRunnerNote": null,
+      "finishAnalysisRunner": null
+    },
+    {
+      "id": 3757162,
+      "runnerNumber": 7,
+      "horse": {
+        "name": "BENEDICTUS",
+        "uuid": "5e014898-c679-44aa-898f-cd1f04e9c204",
+        "isFavorite": false
+      },
+      "idPmu": "41686306",
+      "uuid": "234a2053-999e-4fa3-a06c-48d44d7ee788",
+      "silksPath": "https://media.equidia.fr/unsafe/fit-in/1920x0/filters:format(png)/https://api.equidia.fr/api/public/media/original/20260219-r3c1p7-png",
+      "internalRunnerNote": null,
+      "finishAnalysisRunner": null
+    },
+    {
+      "id": 3757163,
+      "runnerNumber": 8,
+      "horse": {
+        "name": "GREAT DARKNESS FIRE",
+        "uuid": "60b70756-3704-49c4-b581-fed8eca89f21",
+        "isFavorite": false
+      },
+      "idPmu": "41686307",
+      "uuid": "6626224f-18b7-454a-bc29-f65b8d85d212",
+      "silksPath": "https://media.equidia.fr/unsafe/fit-in/1920x0/filters:format(png)/https://api.equidia.fr/api/public/media/original/20260219-r3c1p8-png",
+      "internalRunnerNote": null,
+      "finishAnalysisRunner": null
+    },
+    {
+      "id": 3757164,
+      "runnerNumber": 9,
+      "horse": {
+        "name": "WIKILEAKS",
+        "uuid": "6e3d05d3-0088-48c1-88ed-62e85bbe0a61",
+        "isFavorite": false
+      },
+      "idPmu": "41686308",
+      "uuid": "6394d233-2488-4a37-80d8-ce23fdbb561d",
+      "silksPath": "https://media.equidia.fr/unsafe/fit-in/1920x0/filters:format(png)/https://api.equidia.fr/api/public/media/original/20260219-r3c1p9-png",
+      "internalRunnerNote": null,
+      "finishAnalysisRunner": null
+    }
+  ],
+  "infoSummary": [
+    "<b>9 Partants</b>",
+    "Attelé",
+    "Internationale-autostart",
+    "1925m",
+    "4 000 €"
+  ],
+  "status": "FINISHED",
+  "earningsTotalPool": "4 000 €",
+  "isPickFive": false,
+  "stakesSGAmount": 45113,
+  "groundCondition": null,
+  "replayUrl": null,
+  "turn": null,
+  "course": "https://static.equidia.fr/assets/img/parcours_non_dispo.png",
+  "nonRunners": [
+    1,
+    2,
+    3
+  ],
+  "stringResult": "9 6 8 4 7",
+  "description": "INTERNATIONALE-AUTOSTART",
+  "betLinks": {
+    "PMU": {
+      "borderColor": "#3e6663",
+      "imagepng": "https://static.equidia.fr/assets/img/logos/pmu.png",
+      "imagesvg": "https://static.equidia.fr/assets/img/logos/pmu.svg",
+      "link_page_course_social_prono": "https://ad.doubleclick.net/ddm/trackclk/N335001.2269514EQUIDIA_EQUIDIA/B31111360.384558663;dc_trk_aid=575235302;dc_trk_cid=207277256;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1?https://www.pmu.fr/turf/19022026/r3/c1/"
+    },
+    "Betclic": {
+      "borderColor": "#de0b1c",
+      "imagepng": "https://static.equidia.fr/assets/img/logos/betclic.png",
+      "imagesvg": "https://static.equidia.fr/assets/img/logos/betclic.svg",
+      "link_page_course_social_prono": "https://betclic.onelink.me/quxK/7zxg60id"
+    },
+    "ZeTurf": {
+      "borderColor": "#f62741",
+      "imagepng": "https://static.equidia.fr/assets/img/logos/zeturf.png",
+      "imagesvg": "https://static.equidia.fr/assets/img/logos/zeturf.svg",
+      "link_page_course_social_prono": "https://www.zeturf.fr/fr/course/2026-02-19/R3C1-equidia?prefill=6:[RUNNERS]&pid=311&aff=202331101"
+    },
+    "Genybet": {
+      "borderColor": "#129c92",
+      "imagepng": "https://static.equidia.fr/assets/img/logos/genybet.png",
+      "imagesvg": "https://static.equidia.fr/assets/img/logos/genybet.svg",
+      "link_page_course_social_prono": "https://www.genybet.fr/affp?pf=Gb&v=2&t=A&u=H&lid=w6mRWpc7Z33N&affid=equidia&siteid=equidia.fr&campid=static_btnp&csd=2&srv=Crs&d=2026-02-19&nr=3&nc=1"
+    }
+  },
+  "hasMedias": false,
+  "hasFavorite": [],
+  "replayThumbnailData": null,
+  "myPrediction": null,
+  "isBookmarked": false,
+  "time": null
+}

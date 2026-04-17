@@ -1,0 +1,70 @@
+[
+  {
+    "id": 96446,
+    "meetingNumber": 1,
+    "name": "PARIS-VINCENNES",
+    "guid": "20260217_VIN",
+    "isPremium": true,
+    "isCsi": false,
+    "isCsiPmu": false,
+    "isPmh": false,
+    "uuid": "d1a5c4d0-d6f0-4573-bd2c-6e4459c25293",
+    "racecourse": {
+      "name": "HIPPODROME DE PARIS-VINCENNES",
+      "countryCode": "FRA",
+      "uuid": "f264be7a-3b55-45f0-87a4-51ae02197db4"
+    },
+    "startDate": "2026-02-17T13:20:00+01:00",
+    "endDate": "2026-02-17T21:10:00+01:00",
+    "disciplines": [
+      "HARNESS",
+      "SADDLED"
+    ],
+    "familyDisciplines": [
+      "HARNESS",
+      "SADDLED"
+    ],
+    "isQuinte": true,
+    "status": "FINISHED",
+    "cloudCoverCode": "P4",
+    "cloudCoverName": "Peu Nuageux",
+    "cloudTemperature": "8",
+    "cloudWindForce": "19",
+    "cloudWindDirection": "NO",
+    "groundConditions": [],
+    "hasFavorite": []
+  },
+  {
+    "id": 96447,
+    "meetingNumber": 2,
+    "name": "SON PARDO",
+    "guid": "20260217_SON",
+    "isPremium": true,
+    "isCsi": false,
+    "isCsiPmu": false,
+    "isPmh": false,
+    "uuid": "1e25a733-1fb1-4843-857f-5a53670a4270",
+    "racecourse": {
+      "name": "HIPPODROME DE SON PARDO",
+      "countryCode": "ESP",
+      "uuid": "eff44814-45e6-4dd4-814c-5e46e56a2674"
+    },
+    "startDate": "2026-02-17T10:33:00+01:00",
+    "endDate": "2026-02-17T16:14:00+01:00",
+    "disciplines": [
+      "HARNESS"
+    ],
+    "familyDisciplines": [
+      "HARNESS"
+    ],
+    "isQuinte": false,
+    "status": "FINISHED",
+    "cloudCoverCode": "P1",
+    "cloudCoverName": "Soleil",
+    "cloudTemperature": "18",
+    "cloudWindForce": "18",
+    "cloudWindDirection": "NO",
+    "groundConditions": [],
+    "hasFavorite": []
+  }
+]

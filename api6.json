@@ -1,0 +1,20 @@
+{
+  "careerEarnings": 2742,
+  "victoryEarnings": null,
+  "quinteStats": {
+    "places2to5": 0,
+    "victory": 0,
+    "raceCount": 0,
+    "percent": null
+  },
+  "careerStats": {
+    "all": {
+      "places2to3": 1,
+      "victory": 0,
+      "places4to5": 1,
+      "raceCount": 3,
+      "musique": "5A3ADA2A4A1A7A6A2A3A",
+      "calculatedMusique": "5a3a6a"
+    }
+  }
+}
